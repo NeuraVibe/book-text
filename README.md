@@ -32,8 +32,7 @@ pip install pymupdf googletrans==4.0.0-rc1
 
 1. Clone or download this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/pdf-processing-tool.git
-   cd pdf-processing-tool
+   git clone https://github.com/NeuraVibe/book-text
    ```
 
 2. Run the tool:
