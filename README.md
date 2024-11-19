@@ -37,10 +37,20 @@ pip install pymupdf googletrans==4.0.0-rc1
 
 2. Run the tool:
    ```bash
-   python main.py
+   cd book-text
+   ```
+   
+3. Run the tool:
+   ```bash
+   cd source
+   ```
+   
+4. Run the tool:
+   ```bash
+   python3 main.py
    ```
 
-3. Follow the on-screen prompts:
+5. Follow the on-screen prompts:
    - Enter the path to your PDF file.
    - Provide a name for the main output folder.
    - Specify the location where the folder should be saved.
